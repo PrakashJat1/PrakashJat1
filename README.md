@@ -8,4 +8,4 @@
 - ⚡ Fun Fact: *I turn coffee into code!* ☕💻  
 
 ### 🌟 Let's Connect!  
-💼 [LinkedIn](www.linkedin.com/in/prakash-jat1) 
+💼 [LinkedIn](https://www.linkedin.com/in/prakash-jat1/) 
