@@ -1,7 +1,11 @@
-👋 Hi, I’m @PrakashJat1
-👀 I’m interested in Java Full Stack Development/ MERN
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me prakashjatt966@gmail.com/ 9981567130
-😄 Pronouns: He/Him
-⚡ Fun fact: ...
+  # 👋 Hi, I’m **@PrakashJat1**  
+
+### 🚀 About Me  
+- 🔥 Passionate about **Java Full Stack Development & MERN Stack**  
+- 🎯 Continuously learning and exploring new technologies  
+- 🤝 Open to collaborating on innovative projects  
+- 📬 Reach me at: **prakashjatt966@gmail.com** | **+91 9981567130**  
+- ⚡ Fun Fact: *I turn coffee into code!* ☕💻  
+
+### 🌟 Let's Connect!  
+💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌎 [Portfolio](#)  
